@@ -39,7 +39,7 @@ To further enhance the capabilities of vertical domain large language models, we
 
 ## Training Process
 
-<img src="https://github.com/user-attachments/assets/5e6eae37-53ea-41de-9682-8e74f2613a77" alt="Description Text" style="width:50%;"/>
+<img src="https://github.com/user-attachments/assets/fa236a78-7b55-45ef-8259-d14b69d48bf0" alt="Description Text" style="width:50%;"/>
 
 ## Model Card
 
@@ -62,20 +62,19 @@ To further enhance the capabilities of vertical domain large language models, we
 
 ### 1. Patient Recruitment
 
-<details><summary>Clinical trials have complex inclusion and exclusion criteria; use WiNGPT to automatically screen patients in databases for eligibility.</summary><img src="https://github.com/user-attachments/assets/d8b15150-905f-4ed7-8553-a86966aaf621"/></details>
+<details><summary>Clinical trials have complex inclusion and exclusion criteria; use WiNGPT to automatically screen patients in databases for eligibility.</summary><img src="https://github.com/user-attachments/assets/61962411-7a3f-4296-957d-c56d5b4117c3"/></details>
 
 ### 2. Clinical Diagnostic Reasoning
 
 <details><summary>Simulate clinical diagnostic reasoning—diagnostic assistance.</summary>
-<img src="https://github.com/user-attachments/assets/9f3799b4-9608-4728-b7c7-035b5d6b0b64"/>
+<img src="https://github.com/user-attachments/assets/24e37279-4652-48be-992e-3e58ac19c04b"/>
 </details>
 
 ### 3. MedEvidence
 
 <details><summary>Evidence-Based Search Integration.</summary>
-  <img src="https://github.com/user-attachments/assets/ef943ae4-d7ee-4987-91fb-a5463a926735"/>
+  <img src="https://github.com/user-attachments/assets/d94738a9-d5d3-4267-86f4-ff39404a4840"/>
 </details>
-
 
 ## Limitations and Disclaimer
 
