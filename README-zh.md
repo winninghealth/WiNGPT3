@@ -1,6 +1,6 @@
 ## WiNGPT-3.0
 
-\[[Report](https://arxiv.org/abs/2505.17387)\] \[[EN](https://github.com/winninghealth/WiNGPT-3.0/blob/main/README.md/)\]
+\[[Report](https://arxiv.org/abs/2505.17387)\] \[[EN](https://github.com/winninghealth/WiNGPT3/blob/main/README.md/)\]
 
 WiNGPT是一个医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
@@ -37,7 +37,7 @@ WiNGPT是一个医疗垂直领域大模型，旨在将专业的医学知识、�
 
 ## 训练流程
 
-<img src=".\assets\WiNGPT-3.0-Workflow.png" alt="描述文字" style="width:50%;"/>
+<img src="https://github.com/user-attachments/assets/fa236a78-7b55-45ef-8259-d14b69d48bf0" alt="描述文字" style="width:50%;"/>
 
 ## 模型卡
  - 模型参数  32B
@@ -59,19 +59,19 @@ WiNGPT是一个医疗垂直领域大模型，旨在将专业的医学知识、�
 
 ### 1. 患者招募
 
-<details><summary>临床实验有复杂的入组和排除标准，通过WiNGPT自动对数据库中的患者进行纳排。</summary><img src=".\assets\example1.png"/></details>
+<details><summary>临床实验有复杂的入组和排除标准，通过WiNGPT自动对数据库中的患者进行纳排。</summary><img src="https://github.com/user-attachments/assets/61962411-7a3f-4296-957d-c56d5b4117c3"/></details>
 
 ### 2. 临床诊断推理
 
 <details><summary>模拟临床诊断推理-诊断辅助。</summary>
-<img src=".\assets\example2.png"/>
+<img src="https://github.com/user-attachments/assets/24e37279-4652-48be-992e-3e58ac19c04b"/>
 </details>
 
-### 3. 检索工具调用
+### 3. MedEvidence
 
 
-<details><summary>医学信息检索。</summary>
-  <img src="./assets/example3.gif"/>
+<details><summary>基于证据的医学信息检索。</summary>
+  <img src="https://github.com/user-attachments/assets/d94738a9-d5d3-4267-86f4-ff39404a4840"/>
 </details>
 
 ## 局限性与免责声明
@@ -81,6 +81,17 @@ WiNGPT是一个医疗垂直领域大模型，旨在将专业的医学知识、�
 (b) 您应理解 WiNGPT-3.0 仅提供信息和建议，不能替代医疗专业人士的意见、诊断或治疗建议。在使用 WiNGPT-3.0 的信息之前，请寻求医生或其他医疗专业人员的建议，并独立评估所提供的信息。
 
 (c) WiNGPT-3.0 的信息可能存在错误或不准确。卫宁健康不对 WiNGPT-3.0 的准确性、可靠性、完整性、质量、安全性、及时性、性能或适用性提供任何明示或暗示的保证。使用 WiNGPT-3.0 所产生的结果和决策由您自行承担。第三方原因而给您造成的损害结果承担责任。
+
+## 引用
+
+```bibtex
+@article{zhuang2025wingpt,
+  title={WiNGPT-3.0 Technical Report},
+  author={Zhuang, Boqin and Song, Chenxiao and Lu, Huitong and Qiao, Jiacheng and Liu, Mingqian and Yu, Mingxing and Hong, Ping and Li, Rui and Song, Xiaoxia and Xu, Xiangjun and others},
+  journal={arXiv preprint arXiv:2505.17387},
+  year={2025}
+}
+```
 
 ## 联系我们
 
