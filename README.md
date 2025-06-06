@@ -1,6 +1,6 @@
 ## WiNGPT-3.0
 
-\[[Report](https://arxiv.org/abs/2505.17387)\] \[[ZH](https://github.com/winninghealth/WiNGPT-3.0/blob/main/README-zh.md/)\]
+\[[Report](https://arxiv.org/abs/2505.17387)\] \[[ZH](https://github.com/winninghealth/WiNGPT3/blob/main/README-zh.md/)\]
 
 WiNGPT is a large language model tailored for the medical field, designed to integrate professional medical knowledge, healthcare information, and data to provide intelligent medical Q&A, diagnostic support, and medical knowledge services, thereby enhancing the efficiency of diagnosis and treatment as well as the quality of medical services.
 
