@@ -84,6 +84,17 @@ To further enhance the capabilities of vertical domain large language models, we
 
 (c) Information from WiNGPT-3.0 may contain errors or inaccuracies. Winning Health makes no express or implied warranties regarding the accuracy, reliability, completeness, quality, safety, timeliness, performance, or applicability of WiNGPT-3.0. The results and decisions arising from the use of WiNGPT-3.0 are borne by you. Third-party causes resulting in damage are not covered.
 
+## Citation
+
+```bibtex
+@article{zhuang2025wingpt,
+  title={WiNGPT-3.0 Technical Report},
+  author={Zhuang, Boqin and Song, Chenxiao and Lu, Huitong and Qiao, Jiacheng and Liu, Mingqian and Yu, Mingxing and Hong, Ping and Li, Rui and Song, Xiaoxia and Xu, Xiangjun and others},
+  journal={arXiv preprint arXiv:2505.17387},
+  year={2025}
+}
+```
+
 ## Contact Us
 
 Website: https://www.winning.com.cn
